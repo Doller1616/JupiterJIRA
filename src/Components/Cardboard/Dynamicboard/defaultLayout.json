@@ -1,0 +1,230 @@
+{
+    "lg": [
+        {
+            "w": 6,
+            "h": 9,
+            "x": 0,
+            "y": 0,
+            "i": "0001",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 6,
+            "h": 9,
+            "x": 6,
+            "y": 0,
+            "i": "0002",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 6,
+            "h": 11,
+            "x": 6,
+            "y": 9,
+            "i": "0003",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 6,
+            "h": 11,
+            "x": 0,
+            "y": 9,
+            "i": "0004",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": true
+        },
+        {
+            "w": 12,
+            "h": 12,
+            "x": 0,
+            "y": 20,
+            "i": "0005",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        }
+    ],
+    "md": [
+        {
+            "w": 5,
+            "h": 10,
+            "x": 0,
+            "y": 0,
+            "i": "0001",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 5,
+            "h": 10,
+            "x": 5,
+            "y": 0,
+            "i": "0002",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 5,
+            "h": 8,
+            "x": 0,
+            "y": 10,
+            "i": "0003",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 5,
+            "h": 16,
+            "x": 5,
+            "y": 10,
+            "i": "0004",
+            "minW": 4,
+            "minH": 3,
+            "moved": false,
+            "static": true
+        },
+        {
+            "w": 5,
+            "h": 8,
+            "x": 0,
+            "y": 18,
+            "i": "0005",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        }
+    ],
+    "sm": [
+        {
+            "w": 3,
+            "h": 7,
+            "x": 0,
+            "y": 0,
+            "i": "0001",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 3,
+            "h": 10,
+            "x": 3,
+            "y": 0,
+            "i": "0002",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 3,
+            "h": 10,
+            "x": 0,
+            "y": 7,
+            "i": "0003",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 6,
+            "h": 7,
+            "x": 0,
+            "y": 17,
+            "i": "0004",
+            "minW": 4,
+            "minH": 3,
+            "moved": false,
+            "static": true
+        },
+        {
+            "w": 3,
+            "h": 7,
+            "x": 3,
+            "y": 10,
+            "i": "0005",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        }
+    ],
+    "xs": [
+        {
+            "w": 4,
+            "h": 7,
+            "x": 0,
+            "y": 0,
+            "i": "0001",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 4,
+            "h": 8,
+            "x": 0,
+            "y": 7,
+            "i": "0002",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 4,
+            "h": 6,
+            "x": 0,
+            "y": 21,
+            "i": "0003",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 4,
+            "h": 6,
+            "x": 0,
+            "y": 15,
+            "i": "0004",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": true
+        },
+        {
+            "w": 4,
+            "h": 6,
+            "x": 0,
+            "y": 27,
+            "i": "0005",
+            "minW": 2,
+            "minH": 3,
+            "moved": false,
+            "static": false
+        }
+    ]
+}
